@@ -366,27 +366,3 @@ ridgemodel1 = Ridge(alpha=0.1)
 ridgemodel1.fit(x_train_pf,y_train)
 ridgemodel1.score(x_test_pf,y_test)
 
-
-# <h2>About the Authors:</h2> 
-# 
-# <a href="https://www.linkedin.com/in/joseph-s-50398b136/?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkDA0101ENSkillsNetwork20235326-2022-01-01">Joseph Santarcangelo</a> has a PhD in Electrical Engineering, his research focused on using machine learning, signal processing, and computer vision to determine how videos impact human cognition. Joseph has been working for IBM since he completed his PhD.
-# 
-
-# Other contributors: <a href="https://www.linkedin.com/in/michelleccarey/?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkDA0101ENSkillsNetwork20235326-2022-01-01">Michelle Carey</a>, <a href="https://www.linkedin.com/in/jiahui-mavis-zhou-a4537814a?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkDA0101ENSkillsNetwork20235326-2022-01-01">Mavis Zhou</a>
-# 
-
-# ## Change Log
-# 
-# | Date (YYYY-MM-DD) | Version | Changed By      | Change Description                           |
-# | ----------------- | ------- | --------------- | -------------------------------------------- |
-# | 2022-07-29        | 2.3     | Lakshmi Holla   | Added library import                         |
-# | 2020-12-01        | 2.2     | Aije Egwaikhide | Coverted Data describtion from text to table |
-# | 2020-10-06        | 2.1     | Lakshmi Holla   | Changed markdown instruction of Question1    |
-# | 2020-08-27        | 2.0     | Malika Singla   | Added lab to GitLab                          |
-# 
-# <hr>
-# 
-# ## <h3 align="center"> © IBM Corporation 2020. All rights reserved. <h3/>
-# 
-# <p>
-# 
